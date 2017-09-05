@@ -1,2 +1,1 @@
-My portfolio code. MIT license
- 
+My portfolio code. MIT license.
