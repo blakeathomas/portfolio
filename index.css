@@ -20,14 +20,12 @@
     background-color:gray;
     color:black; 
   }
-  .center{
-    height: 10em;
+   .center{
     position: absolute;
-    top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) 
-  }
+  } 
   
   .fa {
   padding: 20px;
