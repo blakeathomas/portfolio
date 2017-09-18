@@ -19,13 +19,18 @@
   .bg-4{
     background-color:gray;
     color:black; 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
    .center{
     position: absolute;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) 
-  } 
+  
+  }
   
   .fa {
   padding: 20px;
@@ -55,6 +60,10 @@
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .form-horizontal{
+  .pad64{
+    padding-bottom: 64px;
+  }
+  .form-container{
     width: 50%;
+    height: 1000px;
   }
